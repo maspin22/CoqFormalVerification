@@ -1,0 +1,34 @@
+DIGEST ea8d9aad93efae82d30619fb60537ea2
+FLF.IndPrinciplesTest
+R70:75 Coq.Strings.String <> <> lib
+R101:113 LF.IndPrinciples <> <> lib
+ax 127:133 <> MISSING
+mod 150:154 <> Check
+R220:226 LF.IndPrinciplesTest <> MISSING defax
+R220:226 LF.IndPrinciplesTest <> MISSING defax
+R419:422 Coq.Init.Datatypes <> Some constr
+R419:422 Coq.Init.Datatypes <> Some constr
+R602:605 Coq.Init.Datatypes <> None constr
+R602:605 Coq.Init.Datatypes <> None constr
+R687:691 LF.IndPrinciplesTest Check <> mod
+R718:730 LF.IndPrinciples <> <> lib
+R753:756 Coq.Init.Logic <> True ind
+R900:910 LF.IndPrinciples <> plus_one_r' thm
+R925:927 Coq.Init.Datatypes <> nat ind
+R935:937 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R931:933 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R930:930 LF.IndPrinciplesTest <> n var
+R938:938 Coq.Init.Datatypes <> S constr
+R940:940 LF.IndPrinciplesTest <> n var
+R900:910 LF.IndPrinciples <> plus_one_r' thm
+R925:927 Coq.Init.Datatypes <> nat ind
+R935:937 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R931:933 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R930:930 LF.IndPrinciplesTest <> n var
+R938:938 Coq.Init.Datatypes <> S constr
+R940:940 LF.IndPrinciplesTest <> n var
+R992:1002 LF.IndPrinciples <> plus_one_r' thm
+R1010:1013 Coq.Init.Logic <> True ind
+R1194:1222 LF.IndPrinciples <> manual_grade_for_booltree_ind def
+R1393:1416 LF.IndPrinciples <> manual_grade_for_toy_ind def
+R2268:2278 LF.IndPrinciples <> plus_one_r' thm

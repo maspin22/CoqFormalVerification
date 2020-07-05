@@ -1,0 +1,15 @@
+DIGEST df5640d40f3cfe562b4f9a9abd03cb47
+FPLF.AutoTest
+R70:75 Coq.Strings.String <> <> lib
+R102:105 PLF.Auto <> <> lib
+ax 119:125 <> MISSING
+mod 142:146 <> Check
+R212:218 PLF.AutoTest <> MISSING defax
+R212:218 PLF.AutoTest <> MISSING defax
+R411:414 Coq.Init.Datatypes <> Some constr
+R411:414 Coq.Init.Datatypes <> Some constr
+R594:597 Coq.Init.Datatypes <> None constr
+R594:597 Coq.Init.Datatypes <> None constr
+R679:683 PLF.AutoTest Check <> mod
+R711:714 PLF.Auto <> <> lib
+R737:740 Coq.Init.Logic <> True ind
